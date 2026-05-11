@@ -1,9 +1,6 @@
 [submodule "agents/gandalf"]
 	path = agents/gandalf
 	url = https://github.com/andre-zaguette/Gandalf.git
-[submodule "agents/boromir"]
-	path = agents/boromir
-	url = git@github.com-zaguette:andre-zaguette/Boromir.git
 [submodule "agents/palantir"]
 	path = agents/palantir
 	url = git@github.com-zaguette:andre-zaguette/Palantir.git
