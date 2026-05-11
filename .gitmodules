@@ -10,3 +10,15 @@
 [submodule "agents/palantir"]
 	path = agents/palantir
 	url = git@github.com-zaguette:andre-zaguette/SecondBrain.git
+[submodule "agents/galadriel-ui"]
+	path = agents/galadriel-ui
+	url = git@github.com-zaguette:andre-zaguette/Galadriel.git
+[submodule "agents/beorn-nest"]
+	path = agents/beorn-nest
+	url = git@github.com-zaguette:andre-zaguette/Beorn.git
+[submodule "agents/celebrimbor-react"]
+	path = agents/celebrimbor-react
+	url = git@github.com-zaguette:andre-zaguette/Celebrimbor.git
+[submodule "agents/elrond-vue"]
+	path = agents/elrond-vue
+	url = git@github.com-zaguette:andre-zaguette/Elrond.git
