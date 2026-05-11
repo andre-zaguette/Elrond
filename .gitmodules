@@ -7,3 +7,6 @@
 [submodule "agents/boromir"]
 	path = agents/boromir
 	url = git@github.com-zaguette:andre-zaguette/Boromir.git
+[submodule "agents/palantir"]
+	path = agents/palantir
+	url = git@github.com-zaguette:andre-zaguette/SecondBrain.git
